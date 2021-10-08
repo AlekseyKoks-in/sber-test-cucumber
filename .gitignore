@@ -1,0 +1,9 @@
+# Folder ignoring
+allure-results
+target
+.idea
+.allure
+
+# File ignoring
+*.iml
+*.log
